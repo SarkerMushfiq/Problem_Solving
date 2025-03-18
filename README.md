@@ -32,11 +32,3 @@ Here are the platforms where the problems are sourced from:
 - **Others**: HackerRank, CodeChef, etc.
 
 You can view my solutions to problems from these platforms by checking the folders for each language.
-
-## How to Use
-
-To explore the solutions:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/problem-solving.git
